@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fecipher-deckbuilder/static/css/main.f4082ce9.chunk.css",
+    "main.js": "/fecipher-deckbuilder/static/js/main.cb10a25a.chunk.js",
+    "main.js.map": "/fecipher-deckbuilder/static/js/main.cb10a25a.chunk.js.map",
+    "runtime~main.js": "/fecipher-deckbuilder/static/js/runtime~main.d228e68a.js",
+    "runtime~main.js.map": "/fecipher-deckbuilder/static/js/runtime~main.d228e68a.js.map",
+    "static/js/2.db3b7262.chunk.js": "/fecipher-deckbuilder/static/js/2.db3b7262.chunk.js",
+    "static/js/2.db3b7262.chunk.js.map": "/fecipher-deckbuilder/static/js/2.db3b7262.chunk.js.map",
+    "index.html": "/fecipher-deckbuilder/index.html",
+    "precache-manifest.d21a5d0ec808f191c461eb33a5db8962.js": "/fecipher-deckbuilder/precache-manifest.d21a5d0ec808f191c461eb33a5db8962.js",
+    "service-worker.js": "/fecipher-deckbuilder/service-worker.js",
+    "static/css/main.f4082ce9.chunk.css.map": "/fecipher-deckbuilder/static/css/main.f4082ce9.chunk.css.map",
+    "static/media/Black_(Cipher).png": "/fecipher-deckbuilder/static/media/Black_(Cipher).fd81e42c.png",
+    "static/media/Blue_(Cipher).png": "/fecipher-deckbuilder/static/media/Blue_(Cipher).30a45ace.png",
+    "static/media/Brown_(Cipher).png": "/fecipher-deckbuilder/static/media/Brown_(Cipher).0a705387.png",
+    "static/media/Green_(Cipher).png": "/fecipher-deckbuilder/static/media/Green_(Cipher).693a8c56.png",
+    "static/media/Purple_(Cipher).png": "/fecipher-deckbuilder/static/media/Purple_(Cipher).b55accb7.png",
+    "static/media/Red_(Cipher).png": "/fecipher-deckbuilder/static/media/Red_(Cipher).0b040b25.png",
+    "static/media/WhiteBlack_(Cipher).png": "/fecipher-deckbuilder/static/media/WhiteBlack_(Cipher).047691df.png",
+    "static/media/White_(Cipher).png": "/fecipher-deckbuilder/static/media/White_(Cipher).ff328eeb.png",
+    "static/media/Yellow_(Cipher).png": "/fecipher-deckbuilder/static/media/Yellow_(Cipher).bdb894ee.png"
+  }
+}
