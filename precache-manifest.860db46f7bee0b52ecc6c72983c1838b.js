@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d61f60c6d0def4432cf29807c37365a9",
+    "revision": "ad1a17362b8bb5dddba8c4ec05efa06b",
     "url": "/fecipher-deckbuilder/index.html"
   },
   {
-    "revision": "1fb52ca5f3f0de3c4543",
-    "url": "/fecipher-deckbuilder/static/css/main.da9e7320.chunk.css"
+    "revision": "962627a88ecbd6ce2095",
+    "url": "/fecipher-deckbuilder/static/css/main.c757df8b.chunk.css"
   },
   {
     "revision": "72132071473b89fc55ac",
     "url": "/fecipher-deckbuilder/static/js/2.1225e8c3.chunk.js"
   },
   {
-    "revision": "1fb52ca5f3f0de3c4543",
+    "revision": "962627a88ecbd6ce2095",
     "url": "/fecipher-deckbuilder/static/js/main.775cca99.chunk.js"
   },
   {
