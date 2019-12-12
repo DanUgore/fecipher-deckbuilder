@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fecipher-deckbuilder/precache-manifest.ea03bfde944479721d5fbba7c48c9438.js"
+  "/fecipher-deckbuilder/precache-manifest.ddc6925d9e1434bbca5a457e7cf40a9c.js"
 );
 
 self.addEventListener('message', (event) => {

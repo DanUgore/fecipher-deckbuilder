@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fecipher-deckbuilder/static/css/main.551a5a7e.chunk.css",
-    "main.js": "/fecipher-deckbuilder/static/js/main.5adce2ad.chunk.js",
-    "main.js.map": "/fecipher-deckbuilder/static/js/main.5adce2ad.chunk.js.map",
+    "main.js": "/fecipher-deckbuilder/static/js/main.27ec38e4.chunk.js",
+    "main.js.map": "/fecipher-deckbuilder/static/js/main.27ec38e4.chunk.js.map",
     "runtime~main.js": "/fecipher-deckbuilder/static/js/runtime~main.d228e68a.js",
     "runtime~main.js.map": "/fecipher-deckbuilder/static/js/runtime~main.d228e68a.js.map",
     "static/js/2.1225e8c3.chunk.js": "/fecipher-deckbuilder/static/js/2.1225e8c3.chunk.js",
     "static/js/2.1225e8c3.chunk.js.map": "/fecipher-deckbuilder/static/js/2.1225e8c3.chunk.js.map",
     "index.html": "/fecipher-deckbuilder/index.html",
-    "precache-manifest.ea03bfde944479721d5fbba7c48c9438.js": "/fecipher-deckbuilder/precache-manifest.ea03bfde944479721d5fbba7c48c9438.js",
+    "precache-manifest.ddc6925d9e1434bbca5a457e7cf40a9c.js": "/fecipher-deckbuilder/precache-manifest.ddc6925d9e1434bbca5a457e7cf40a9c.js",
     "service-worker.js": "/fecipher-deckbuilder/service-worker.js",
     "static/css/main.551a5a7e.chunk.css.map": "/fecipher-deckbuilder/static/css/main.551a5a7e.chunk.css.map",
     "static/media/Black_(Cipher).png": "/fecipher-deckbuilder/static/media/Black_(Cipher).fd81e42c.png",
